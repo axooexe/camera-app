@@ -16,8 +16,8 @@ class CozyCameraApp(ctk.CTk):
 
         # Colors
         self.panel_color = "#F4EAE1"       
-        self.button_color = "#E8AEB7"      
-        self.button_hover = "#D89EA7"      
+        self.button_color = "#8A7F81"      
+        self.button_hover = "#D1B1B6"      
         self.text_color = "#604D4A"        
 
         # Camera Setup
